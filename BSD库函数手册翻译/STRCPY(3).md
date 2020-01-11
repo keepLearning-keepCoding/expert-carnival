@@ -48,13 +48,13 @@
 
 **示例**
 
-**以下的语句把``abc\0\0\0' '赋给<u>chararray</u>:**
+**以下的语句把''abc\0\0\0' '赋给<u>chararray</u>:**
 
 ​			`char chararray[6];`
 
  		   `(void)strncpy(chararray,"abc",sizeof(chararray));`
 
-**以下的语句把``abcdef' '赋给<u>chararray</u>:**
+**以下的语句把''abcdef' '赋给<u>chararray</u>:**
 
  		  `char chararray[6];`
 
