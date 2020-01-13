@@ -55,8 +55,8 @@
 
 **以下的语句把''abcdef' '赋给<u>chararray</u>:**
 
-        `char chararray[6];`
-        `(void)strncpy(chararray,"abcdefgh",sizeof(chararray));`
+`char chararray[6];`
+`(void)strncpy(chararray,"abcdefgh",sizeof(chararray));`
 
 **注意它<u>并没有</u>用空字符'\0'来终止<u>chararray</u>,因为源字符串的长度大于等于长度参数。**
 
