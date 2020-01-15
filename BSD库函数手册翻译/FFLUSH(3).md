@@ -4,7 +4,7 @@
 
 **名称**
 
-   **fflush, fpurge -- ==刷新一个流==**
+   **fflush, fpurge -- ```刷新一个流```**
 
 
 
