@@ -15,7 +15,8 @@ mknod [-F format]  name [c|b]  major minor
 
 mknod [-F format] name [c|b] major unit subunit
 
-mknod name [c|b] number
+mknod name [c|b] 
+number
 
 mknod name w
 ```
