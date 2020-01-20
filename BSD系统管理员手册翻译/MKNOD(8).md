@@ -15,8 +15,7 @@ mknod [-F format]  name [c|b]  major minor
 
 mknod [-F format] name [c|b] major unit subunit
 
-mknod name [c|b] 
-number
+mknod name [c|b] number
 
 mknod name w
 ```
@@ -39,7 +38,7 @@ mknod name w
 
  **unit and subunit**  **单元**和**子单元号**选择了一个**设备**的子集；例如，**单元号**可能指定一个特定的**SCSI磁盘**，**子单元号**可能指定那个磁盘上的一个**分区**。(当前，为了与**BSD/OS mknod(8)**相兼容，只有**bsdos格式**支持这种**规范的格式**。)
 
-对于不同的操作系统，**设备号**可能以**不同的格式**打包。为了创建可能被这种操作系统所使用的**设备号**(例如，用于网络启动的**输出文件系统**中)，使用**-F**选项。以下格式会被识别:**native, 386bsd,4bsd, bsdos, freebsd, hpux, isc, linux, netbsd, osf1, sco, solaris, sunos,svr3, svr4 and ultrix.**
+对于不同的操作系统，**设备号**可能以**不同的格式**打包。为了创建可能被这种操作系统所使用的**设备号**(例如，用于网络启动的**输出文件系统**中)，使用-F选项。以下格式会被识别:**native, 386bsd,4bsd, bsdos, freebsd, hpux, isc, linux, netbsd, osf1, sco, solaris, sunos,svr3, svr4 and ultrix.**
 
 或者，可以指定**单个不透明的**设备号。
 
