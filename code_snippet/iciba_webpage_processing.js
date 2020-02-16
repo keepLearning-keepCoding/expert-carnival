@@ -26,4 +26,6 @@ soundELe.forEach(s=>{
     }
    
 });
-copy(outerBox);
+
+outerBox.setAttribute("contentEditable",true)
+// copy(outerBox);
