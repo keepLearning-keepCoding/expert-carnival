@@ -538,27 +538,35 @@ ALL									单元中的所有位置
 
 #### 3.13.2 测试模拟器状态
 
-### The ASSERT command tests a simulator state condition and halts command file execution if the condition is false:
+​		命令ASSERT测试一个**模拟器状态条件**，如果**该条件为假**，则**停止命令文件执行**:
 
- 
+​			ASSERT {\<dev\>} \<reg\>{\<logical-op\>\<value\>}\<conditional-op\>\<value\>
 
-​	ASSERT {<dev>} <reg>{<logical-op><value>}<conditional-op><value>
+ 		若未指定\<dev\>,则假定其为CPU。\<reg\>是一个属于指定设备的寄存器（标量或下标）。当\<conditional-op\> 和\<logical-op\> 被命令EXAMINE和DEPOSIT（见上文）用于“搜索说明符”时，它们是等同的。\<value\>是用为\<reg\>所指定的基数表示的，而用为设备所指定的基数表示。
 
- 
+​		如果指定了\<logical-op\>和\<value\> ,则目标寄存器的值依照首次所指定的方式改变。然后通过\<conditional-op\>将结果与\<value\>相比较。如果该结果为假，则打印 "Assertion failed" 信息，并终止任何运行中的命令文件。否则，该命令无效。
 
-If <dev> is not specified, CPU is assumed.  <reg> is a register (scalar or subscripted) belonging to the indicated device.  The <conditional-op> and optional <logical-op> are the same as those used for "search specifiers" by the EXAMINE and DEPOSIT commands (see above).  The <value>s are expressed in the radix specified for <reg>, not in the radix for the device.
+​		例如， 某个命令文件可能被用于引导一个从磁盘初始化加载后就终止的操作系统。然后命令ASSERT被用于确认加载成功完成，这是通过检查CPU的"A"寄存器是否等于预期值实现的:
 
- 
+​			;   OS引导命令文件
 
-If the <logical-op> and <value> are specified, the target register value is first altered as indicated.  The result is then compared to the <value> via the <conditional-op>.  If the result is false, an "Assertion failed" message is printed, and any running command file is aborted.  Otherwise, the command has no effect.
+​			;
 
- 
+​			ATTACH DS0 os.disk
 
-For example, a command file might be used to bootstrap an operating system that halts after the initial load from disk.  The ASSERT command is then used to confirm that the load completed successfully by examining the CPU's "A" register for the expected value:
+​			BOOT DS
 
+​			;  A寄存器包含错误码；0=良好的引导
 
+​			ASSERT A=0
 
+​			ATTACH MT0 sys.tape
 
+​			ATTACH MT1 user.tape
+
+​			RUN
+
+ 		在此例中，若A寄存器不是零，则会回显 "ASSERT A=0"命令，该命令文件将会被终止，同时显示"Assertion failed" 信息。否则，此命令文件将继续引导该操作系统。
 
 
 
