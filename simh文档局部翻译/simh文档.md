@@ -466,7 +466,55 @@ ALL									单元中的所有位置
 
 ​			SHOW NAMES
 
+### 3.12 控制台选项
 
+​		控制台选项是由命令SET CONSOLE 控制的。控制台终端通常运行在控制窗口。可选择把控制台终端连接到某个Telnet端口。这允许系统用Telnet客户端内置的终端模拟器来模拟一个 VT100。
+
+​	SET CONSOLE TELNET=\<port>	把控制台终端连接到Telnet会话的port端口
+
+​	SET CONSOLE NOTELNET		    禁用控制台Telnet
+
+ 		到控制台的输出会被同步记录到日志文件:
+
+​			SET CONSOLE LOG=\<文件名\>	  把控制台输出记录到文件
+
+​			SET CONSOLE NOLOG				  禁用日志
+
+ 		控制台提供了一个有限的键重映射功能:
+
+​			SET CONSOLE WRU=<value>		  把ASCII代码value解译为WRU
+
+​			SET CONSOLE BRK=<value>			把ASCII代码value解译为BREAK （0禁用）
+
+​			SET CONSOLE DEL=<value>			把ASCII代码value解译为 DELETE
+
+​			SET CONSOLE PCHAR=<value>	   范围[31,0]内可打印字符的位掩码			
+
+​		 在hex CPU上的值是十六进制，其他CPU上的值是八进制。
+
+​		 命令 SHOW CONSOLE 显示了控制台选项的当前状态:
+
+​			SHOW CONSOLE					 显示所有的控制台选项
+
+​			SHOW CONSOLE TELNET	  显示控制台Telnet状态
+
+​			SHOW CONSOLE LOG			显示控制台日志状态
+
+​			SHOW CONSOLE WRU		    显示赋给WRU的值
+
+​			SHOW CONSOLE BRK			 显示赋给BREAK的值
+
+​			SHOW CONSOLE DEL			 显示赋给DELETE的值
+
+​			SHOW CONSOLE PCHAR	    显示赋给PCHAR的值
+
+ 		SET CONSOLE和SHOW CONSOLE 两者都接收多个参数，并以逗号分隔它们，如：
+
+​			SET CONSOLE WRU=5,DEL=177	为WRU和DEL设置代码值
+
+### 3.13  执行命令文件
+
+​	
 
 
 
