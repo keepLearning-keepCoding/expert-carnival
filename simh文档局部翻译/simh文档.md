@@ -1,4 +1,4 @@
-# 				SIMH用户指南，V3.10-0
+### 				SIMH用户指南，V3.10-0
 
 ### 													2018-05-23
 
@@ -514,11 +514,47 @@ ALL									单元中的所有位置
 
 ### 3.13  执行命令文件
 
-​	
+​		模拟器可以调用DO 命令执行命令文件:
 
+​			DO \<文件名\> {参数...}	 执行文件中的命令
 
+ 		命令DO允许命令文件包含**可替换参数**。字符串%n,此处n位于1到9之间，被来自**DO命令行**的参数n所替代。字符串%0被\<文件名\>所替代。序列\%和\分别被字面量字符%和\所替代。带有空格的参数应被包在匹配的单引号或双引号内。 
 
+​		若指定了开关-v,则在执行文件中的命令前，会回显它们。
 
+​	    如果指定了开关-e, 则在遇到命令错误时，命令处理（包括嵌套的命令调用）将会被终止。（模拟终止从不终止处理；使用ASSERT来捕获意外终止。）不带开关的话，除了ASSERT失败的所有错误将会被忽略，命令处理将会继续。
+
+​		命令DO可能被嵌套至多达10级调用深度。
+
+​		有几个命令在命令文件中特别有用。虽然它们可能被交互式执行，但当它们被这样用时，只有有限的功能。
+
+#### 3.13.1 显示任意文本
+
+​		命令ECHO是一个注释命令文件的有用方式。命令ECHO在控制台打印出其参数:
+
+​			ECHO \<字符串\>			输出字符串到控制台
+
+ 		若没有参数，ECHO在控制台打印一个空行。这可被用于在控制台显示或日志里提供行距。
+
+#### 3.13.2 测试模拟器状态
+
+### The ASSERT command tests a simulator state condition and halts command file execution if the condition is false:
+
+ 
+
+​	ASSERT {<dev>} <reg>{<logical-op><value>}<conditional-op><value>
+
+ 
+
+If <dev> is not specified, CPU is assumed.  <reg> is a register (scalar or subscripted) belonging to the indicated device.  The <conditional-op> and optional <logical-op> are the same as those used for "search specifiers" by the EXAMINE and DEPOSIT commands (see above).  The <value>s are expressed in the radix specified for <reg>, not in the radix for the device.
+
+ 
+
+If the <logical-op> and <value> are specified, the target register value is first altered as indicated.  The result is then compared to the <value> via the <conditional-op>.  If the result is false, an "Assertion failed" message is printed, and any running command file is aborted.  Otherwise, the command has no effect.
+
+ 
+
+For example, a command file might be used to bootstrap an operating system that halts after the initial load from disk.  The ASSERT command is then used to confirm that the load completed successfully by examining the CPU's "A" register for the expected value:
 
 
 
