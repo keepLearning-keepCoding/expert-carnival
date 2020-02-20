@@ -542,7 +542,7 @@ ALL									单元中的所有位置
 
 ​			ASSERT {\<dev\>} \<reg\>{\<logical-op\>\<value\>}\<conditional-op\>\<value\>
 
- 		若未指定\<dev\>,则假定其为CPU。\<reg\>是一个属于指定设备的寄存器（标量或下标）。当\<conditional-op\> 和\<logical-op\> 被命令EXAMINE和DEPOSIT（见上文）用于“搜索说明符”时，它们是等同的。\<value\>是用为\<reg\>所指定的基数表示的，而用为设备所指定的基数表示。
+ 		若未指定\<dev\>,则假定其为CPU。\<reg\>是一个属于指定设备的寄存器（标量或下标）。当\<conditional-op\> 和\<logical-op\> 被命令EXAMINE和DEPOSIT（见上文）用于“搜索说明符”时，它们是等同的。\<value\>是用为\<reg\>所指定的基数表示的，而非用为设备所指定的基数表示。
 
 ​		如果指定了\<logical-op\>和\<value\> ,则目标寄存器的值依照首次所指定的方式改变。然后通过\<conditional-op\>将结果与\<value\>相比较。如果该结果为假，则打印 "Assertion failed" 信息，并终止任何运行中的命令文件。否则，该命令无效。
 
