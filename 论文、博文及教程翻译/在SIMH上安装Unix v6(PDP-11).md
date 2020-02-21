@@ -8,23 +8,23 @@
 
 ##### 1.[资料](#material)
 
-##### 2.磁带引导
+##### 2.[磁带引导](#disk_booting)
 
-##### 3.磁盘安装
+##### 3.[磁盘安装](#disk_install)
 
-##### 	3.1 引导到单用户模式
+##### 	3.1[引导到单用户模式](#boot_to_single_user_mode)
 
-##### 	3.2 修复终端
+##### 	3.2 [修复终端](#repairing_terminal)
 
-##### 	3.3 重新构建内核
+##### 	3.3 [重新构建内核](#rebuild_kernel)
 
-##### 	3.4 构建设备文件
+##### 	3.4 [构建设备文件](#build_device_file)
 
-##### 	3.5 恢复OS的其余部分
+##### 	3.5 [恢复OS的其余部分](#restore_other_part_of_os)
 
-##### 	3.6 配置引导
+##### 	3.6 [配置引导](#configuring_boot)
 
-##### 	3.7 重新构建df命令
+##### 	3.7 [重新构建df命令](#rebuild_df_cmd)
 
 ##### 	3.8 [检查文件系统](#ck_file_sys)
 
@@ -38,7 +38,7 @@
 
 ​		我期待你使用3.8-1或更高版本的[SIMH](http://gunkies.org/wiki/SIMH)模拟器，和一个Unix v6 磁带 [Unix-v6-Ken-Wellsch.tap](http://sourceforge.net/projects/bsd42/files/Install tapes/Research Unix/Unix-v6-Ken-Wellsch.tap.bz2/download)。
 
-### 磁带引导
+### <span id="disk_booting">磁带引导</span>
 
 ​		这里我们加载引导块，并把根分区加载到rk磁盘文件中。
 
@@ -110,7 +110,7 @@ sim> q
 Goodbye
 ```
 
-### 磁盘安装
+### <span id="disk_install">磁盘安装</span>
 
 这是我的dboot.ini，它用于从硬盘引导：
 
@@ -126,7 +126,7 @@ dep system sr 173030	; sr 开关寄存器
 boot rk0							; 重置所有设备，引导盒式磁盘控制器0.
 ```
 
-#### 引导到单用户模式
+#### <span id="boot_to_single_user_mode">引导到单用户模式</span>
 
 ​		这将我们引导至引导装载程序，它是"unix"要加载到的地方。
 
@@ -152,7 +152,7 @@ Electric Company, Inc.
 #
 ```
 
-#### 修复终端
+#### <span id="repairing_terminal">修复终端</span>
 
 ​		对于已加载的UNIX，我们要做的第一件事情是把终端设置回小写。用小写模式输入以下命令，控制台将回显大写，但这只是它工作的方式。
 
@@ -160,7 +160,7 @@ Electric Company, Inc.
 # STTY -LCASE
 ```
 
-#### 重新构建内核
+#### <span id="rebuild_kernel">重新构建内核</span>
 
 我们将重新构建内核，以支持适应SIMH所提供的硬件。首先，我们必须构建mkconf程序:
 
@@ -212,7 +212,7 @@ mv a.out /unix
 -rwxrwxrwx  1 root    30346 Oct 10 12:43 /unix
 ```
 
-### 构建设备文件
+### <span id="build_device_file">构建设备文件</span>
 
 现在，我们即将构建设备文件。只用把以下代码复制粘贴即可。
 
@@ -240,7 +240,7 @@ chmod 640 /dev/*mt*
 chmod 640 /dev/*tap*
 ```
 
-### 恢复OS的其余部分
+### <span id="restore_other_part_of_os">恢复OS的其余部分</span>
 
 ```
 dd if=/dev/mt0 of=/dev/rk1 count=4000 skip=4100
@@ -249,7 +249,7 @@ dd if=/dev/mt0 of=/dev/rk2 count=4000 skip=8100
 mkdir /usr/doc
 ```
 
-### 配置引导
+### <span id="configuring_boot">配置引导</span>
 
 我只使用cat附加了其他磁盘的引导语句。
 
@@ -268,7 +268,7 @@ mkdir /usr/doc
 
 然后点击 CTRL+D
 
-### 重新构建df命令
+### <span id="rebuild_df_cmd">重新构建df命令</span>
 
 要配置df,请执行以下操作:
 
