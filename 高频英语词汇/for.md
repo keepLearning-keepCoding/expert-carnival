@@ -334,7 +334,7 @@ After some adjective,noun,and verb phrases,you use **for** to introduce the subj
 
 - The Brady Bill is named **for** former White House Press Secretary James Brady...
 
-    布雷迪法案是**以**前白宫欣慰秘书詹姆斯-布雷迪的名字命名的。
+    布雷迪法案是**以**前白宫新闻秘书詹姆斯-布雷迪的名字命名的。
 
 - Ayer started N.W.Ayer & Son in 1869,naming the firm **for** his father.
 
