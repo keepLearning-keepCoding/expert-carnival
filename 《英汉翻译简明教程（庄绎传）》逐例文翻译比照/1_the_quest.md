@@ -1,15 +1,24 @@
-# The Quest
+## 我的翻译：
 
-​      Taking the train, the two friends arrived in Berlin in late October 1922, and went directly to the address of Chou En-lai. Would this man receive them as fellow countrymen, or would he treat them with cold suspicion and question them cautiously about their past careers as militarist? Chu Teh remembered his age. He was thirty-six, his youth had passed like a screaming eagle, leaving him old and disillusioned.
+## 探索
 
-​		When Chou En-lai's door opened they saw a slender man of more than average height with gleaming eyes and a face so striking that is bordered on the beautiful. Yet it was a manly face, serious and intelligent, and Chu judged him to be in his middle twenties.
+​		两个朋友乘坐火车于1922年10月底抵达柏林，直接到达周恩来的住址。这个男人将把他们当同胞来接待，还是将冷酷地怀疑他们，小心地质疑他们作为军事家的过往？朱德记得他的年龄，他那时36岁，青春已经像啸叫的鹰一样流逝，让他变得苍老而失望。
 
-​		Chou was a quiet and thoughtful man, even a little shy as he welcomed his visitors, urged them to be seated and to tell how he could help them.
+​		周恩来住所的门打开后，他们看到一个身材修长的人，两眼闪闪发光，面庞十分悦目，近乎俊美。但这是一张有男子气概的脸，严肃而睿智，朱德估计他二十五岁上下。
 
-​		Ignoring the chair offered him, Chu Teh stood squarely before this youth more than ten years his junior and in a level voice told him who he was, what he had done in the past, how he had fled from Yunnan, talked with Sun Yat-sen, been repulsed by Chen Tuhsiu in Shanghai, and had come to Europe to find a new way of life for himself and a new revolutionary road for China. He wanted to join the Chinese Communist Party group in Berlin, he would study and work hard, he would do anything he was asked to do but return to his old life, which had turned to ashes beneath his feet.
+​		周恩来是个温和又考虑周到的男子，他招呼访客时甚至有些害羞，催促他们赶紧落座，并询问能否帮上什么忙。
 
-​		As he talked Chou En-lai stood facing him, his head a little to one side as was his habit, listening intently until the story was told, and then questioning him.
+​		朱德并未理会递给他的椅子，而是笔直地站在这个小他十岁的年轻人面前，用平静的语气告诉对方，他是谁，过去做些什么，他怎样逃离云南，与孙中山会谈，在上海被陈独秀驱逐以及来到欧洲寻找新生活，也为中国寻求新的革命道路。他想要加入中国共产党柏林小组，想要学习并努力工作，只要不让他回退到以前的生活(这使他绝望愤怒)，他就愿意做任何事情。
 
-​		When both visitors had told their stories, Chou smiled a little, said he would help them find rooms, and arrange for them to join the Berlin Communist group as candidates until their application had been sent to China and an answer received. When the reply came a few months later they were enrolled as full members, but Chu's membership was kept a secret from outsiders.
+​		朱德讲话时，周恩来面对着他，头习惯性地稍稍偏向一侧，专注地听完对方的故事，然后开始提问。
+
+​		两个来客都已叙述完毕后，周恩来微笑着说，将帮他们找到住处，在把他们的入党申请邮寄回中国并收到回复前，先安排他们以预备党员的身份加入柏林共产主义小组。
+
+​		几个月后收到回复时，他们以正式党员的身份注册，但是朱德的党员身份对外界保密。
 
 ​																		(from Agnes Smedley, The Great Road)
+
+​																		(选自史沫特莱的《伟大的道路》）
+
+## 书上的译文：
+
