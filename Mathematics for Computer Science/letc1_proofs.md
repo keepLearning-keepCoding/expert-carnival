@@ -33,12 +33,12 @@ $\implies$ means implies.
 
 #### Truth Table
 
-| p    | q    | $p \implies q$ | $q \implies p$ | $p \iff q$ |
-| ---- | ---- | -------------- | -------------- | ---------- |
-| T    | T    | T              | T              | T          |
-| T    | F    | F              | T              | F          |
-| F    | T    | T              | F              | F          |
-| F    | F    | T              | T              | T          |
+| p    | q    | p![](http://latex.codecogs.com/gif.latex?\implies)q | q![](http://latex.codecogs.com/gif.latex?\implies)p | $p \iff q$ |
+| ---- | ---- | --------------------------------------------------- | --------------------------------------------------- | ---------- |
+| T    | T    | T                                                   | T                                                   | T          |
+| T    | F    | F                                                   | T                                                   | F          |
+| F    | T    | T                                                   | F                                                   | F          |
+| F    | F    | T                                                   | T                                                   | T          |
 
 ### False implies anything is True.
 
