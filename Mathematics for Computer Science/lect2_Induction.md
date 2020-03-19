@@ -104,13 +104,13 @@ Let P(n):   ![](http://latex.codecogs.com/gif.latex?3\mid{(n^3-n)})
 
 Assume P(n) true, ie.  ![](http://latex.codecogs.com/gif.latex?3\mid{(n^3-n)})
 
-<img src="./img/lect2/equation_1.png" alt="equation_1" style="zoom:50%;" />
+<img src="./img/lect2/equation_1.png" alt="equation_1" height="100" />
 
 **Because:**
 
-<img src="./img/lect2/equation_2.png" alt="equation_2" style="zoom:50%;" />
+<img src="./img/lect2/equation_2.png" alt="equation_2" height="100" />
 
-**Therefore:** <img src="./img/lect2/equation_3.png" alt="equation_3" style="zoom:50%;" />
+**Therefore:** <img src="./img/lect2/equation_3.png" alt="equation_3" height="40" />
 
 The **key steps in induction** are always the same. You write down "proof by induction". You identify your predicate. You do the **base case**, usually n equals 0, but it could be something else. And then you do your **inductive step**.
 
@@ -144,7 +144,7 @@ Since color(H~1~) = color(H~2~,...H~n~) = color(H~n+1~)
 
 
 
-**Thm**:  ![](http://latex.codecogs.com/gif.latex?\forall{n}\exists)  way to tile a  <img src="./img/lect2/equation_6.png" alt="equation_6" style="zoom:50%;" /> region with a center square missing(for Bill).
+**Thm**:  ![](http://latex.codecogs.com/gif.latex?\forall{n}\exists)  way to tile a  <img src="./img/lect2/equation_6.png" alt="equation_6" width="50" /> region with a center square missing(for Bill).
 
 Pf: by induction.
 
