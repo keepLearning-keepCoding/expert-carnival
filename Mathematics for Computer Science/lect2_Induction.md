@@ -48,23 +48,23 @@ A easy-understanding interpretation: If P(0),P(0)![](http://latex.codecogs.com/g
 
 then P(0),P(1),P(2).... are true.
 
-
-
-**Thm**: ![](http://latex.codecogs.com/gif.latex?\forall{n}\geqslant{0}),![](http://latex.codecogs.com/gif.latex?1+2+3+...+n=\sum_{i=1}^{n}i=\sum_{.}^{1\leq{i}\leq{n}}{i}=\sum_{1\leqslant{i}\leqslant{n}}i=\frac{n(n+1)}{2})
+**Thm**:<img src="./img/lect2/equation_7.png" alt="equation_7" height="55" />
 
 If n=1, 1+2+...+n = 1
 
-If n ![](http://latex.codecogs.com/gif.latex?\leq{0}), 1+2+...+n=0
+If <img src="./img/lect2/equation_8.png" alt="equation_8" height="40" />, 1+2+...+n=0
 
-If n = 4, ![](http://latex.codecogs.com/gif.latex?1+2+3+4=10=\frac{4(5)}{2})
+If n = 4, <img src="./img/lect2/equation_9.png" alt="equation_9" height="45" />
 
 Proof: by induction.
 
-Let P(n) be proposition that ![](http://latex.codecogs.com/gif.latex?\sum_{i=1}^{n}i=\frac{n(n+1)}{2})
+Let P(n) be proposition that <img src="./img/lect2/equation_10.png" alt="equation_10" height="50" />
 
 **BaseCase**:  P(0) is true.
 
-![](http://latex.codecogs.com/gif.latex?\sum_{i=1}^{0}i=0=\frac{0(0+1)}{2})
+<img src="./img/lect2/equation_11.png"  height="80"/>
+
+
 
 **Inductive Step**: For ![](http://latex.codecogs.com/gif.latex?n\geq{0}),show ![](http://latex.codecogs.com/gif.latex?P(n)\implies{P(n+1)}) is true.
 
@@ -98,7 +98,7 @@ Let P(n):   ![](http://latex.codecogs.com/gif.latex?3\mid{(n^3-n)})
 
 **BaseCase**: n = 0, ![](http://latex.codecogs.com/gif.latex?3\mid{0-0})
 
-**Inductive Step**: For ![](http://latex.codecogs.com/gif.latex?n\geq{0}), show ![](http://latex.codecogs.com/gif.latex?P(n)\implies{P(n+1)}) is True.
+**Inductive Step**: For  <img src="./img/lect2/equation_12.png" alt="equation_12"  height="30" />, show <img src="./img/lect2/equation_13.png" alt="equation_13" height="40"/> is True.
 
 
 
@@ -110,7 +110,7 @@ Assume P(n) true, ie.  ![](http://latex.codecogs.com/gif.latex?3\mid{(n^3-n)})
 
 <img src="./img/lect2/equation_2.png" alt="equation_2" height="100" />
 
-**Therefore:** <img src="./img/lect2/equation_3.png" alt="equation_3" height="40" />
+**Therefore:** <img src="./img/lect2/equation_3.png" alt="equation_3" height="30" />
 
 The **key steps in induction** are always the same. You write down "proof by induction". You identify your predicate. You do the **base case**, usually n equals 0, but it could be something else. And then you do your **inductive step**.
 
