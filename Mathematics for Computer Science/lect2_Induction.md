@@ -148,7 +148,7 @@ Since color(H~1~) = color(H~2~,...H~n~) = color(H~n+1~)
 
 Pf: by induction.
 
-P(n):![](http://latex.codecogs.com/gif.latex?\forall{n}\exists)  way to tile a  <img src="./img/lect2/equation_6.png" alt="equation_6" style="width: 50px;" /> region with any  square missing(for Bill).
+P(n):![](http://latex.codecogs.com/gif.latex?\forall{n}\exists)  way to tile a  <img src="./img/lect2/equation_6.png" alt="equation_6" width="50" /> region with any  square missing(for Bill).
 
 Base Case: P(0) one  ![](http://latex.codecogs.com/gif.latex?\square) for bill
 
