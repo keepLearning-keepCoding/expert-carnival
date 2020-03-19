@@ -48,7 +48,7 @@ A easy-understanding interpretation: If P(0),P(0)![](http://latex.codecogs.com/g
 
 then P(0),P(1),P(2).... are true.
 
-**Thm**:<img src="./img/lect2/equation_7.png" alt="equation_7" height="55" />
+<div style="border:solid 1px red;">Thm:<img src="./img/lect2/equation_7.png" alt="equation_7" height="55" /></div>
 
 If n=1, 1+2+...+n = 1
 
