@@ -22,6 +22,7 @@
 
   在支付房屋净值贷款利息
 
-#### 3. N-UNCOUNT Deduction is the process of reaching a conclusion about something because of other things that you know to be true. 演绎；推论
+3. N-UNCOUNT **Deduction** is the **process** of <u>reaching a conclusion</u> about something because of <u>other things</u> that you know to be true. 演绎；推论
 
 ​	
+
