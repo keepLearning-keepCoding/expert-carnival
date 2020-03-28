@@ -2,6 +2,8 @@
 
 ### 金山词霸网站上 柯林斯高阶英汉双解学习词典 中的词条
 
+### n.[数] 蕴涵
+
 ##### 1. VERB 暗指；暗示
 
 ​	If you **imply** that **something is the case**, you **say something** which indicates that is the case **in an indirect way**.
