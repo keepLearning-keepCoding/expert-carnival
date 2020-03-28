@@ -1,5 +1,13 @@
 # find
 
+5.VERB (不知不觉中）发现（自己在做某事）
+
+​	If you **find yourself doing something**, you are **doing** it **without deciding** or **intending** to do it.
+
+- It's not the first time that you've found yourself in this situation...
+
+  你陷入这种状况已经不是第一次了。
+
 7.VERB 发觉，认识到（某事属实）
 
 ​	If you **find** that **something is the case**, you **become aware of it** or **realize that it is the case**.
