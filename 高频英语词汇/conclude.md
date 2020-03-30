@@ -11,3 +11,15 @@
 - So what can we **conclude** from this debate?...
 
   那么从这场辩论中我们能得出什么结论？
+
+3.V-ERG 结束；终止
+
+​	When something **concludes**, or when you **conclude** it, you **end** it.
+
+- The evening **concluded with** dinner and speeches...
+
+  这个夜晚在宴会和讲话中结束。
+
+- The Group of Seven major industrial countries **concluded** its annual summit meetting today.
+
+  由主要工业国家组成的七国集团今天结束了其年度峰会。
