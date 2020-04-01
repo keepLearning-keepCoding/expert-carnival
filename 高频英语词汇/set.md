@@ -1,5 +1,11 @@
 # set
 
+### The following part is quoted from [Webster](https://www.merriam-webster.com/dictionary/set)
+
+18. c :to fix at a certain amount
+
+    // set bail at $500
+
 ### A NOUN USES 名词用法
 
 3.N-COUNT (数学中的）集，集合
