@@ -32,15 +32,17 @@
 
 
 
+19.PHRASAL VERB 想出；理解；弄清
 
+​	If you **figure out** a **solution** to a **problem** or the **reason** for **something**, you **succeed in solving it** or **understanding it**.
 
+- It took them about one month to **figure out** how to start the equipment...
 
+  他们花了大约1个月的时间才**搞清楚**如何启动设备。
 
+- They're trying to **figure out** the politics of this whole situation...
 
-
-
-
-
+  他们正试图**弄明白**整个情形背后的权术争斗。
 
 
 
