@@ -11,3 +11,15 @@
 - But there must be no talk of final victory; **rather**, the long, hard slog to a solution...
 
   但是这还谈不上是最后的胜利；**而是**长期、艰难地寻找解决方法的过程。
+
+4.ADV 有些；颇为；相当
+
+​	You use **rather** to indicate that **something is true to a fairly great extent**, especially when you are talking about **something unpleasant** or **undesirable**.
+
+- I grew up in **rather** unusual circumstances...
+
+  我在非同寻常的环境下长大。
+
+- It had made some **rather** bad mistakes which I thought should be corrected...
+
+  它犯了一些**相当**严重的错误，我觉得应该加以纠正。
