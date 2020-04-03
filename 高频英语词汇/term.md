@@ -14,6 +14,14 @@
 
   不仅仅**在政治方面**，而且在经济实力上巴黎在法国也都一直处于支配地位。
 
+3.N-COUNT 术语；学科用语
+
+​	A **term** is a **word** or **expression** with **a specific meaning**, especially one which is used **in relation to a particular subject**.
+
+- Myocardial infarction is the **medical term** for a heart attack.
+
+  心肌梗死是心脏病的**医学用语**。
+
 ##### 4. VERB 把...称作；把...叫作
 
 ​	If you say that something is **termed** **a particular thing**, you mean that that is **what people call it** or that is **their opinion of it**.
@@ -25,3 +33,22 @@
 - He **termed** the war a humanitarian nightmare.
 
   他**称**这场战争是一场人道主义噩梦。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
