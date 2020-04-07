@@ -1,5 +1,17 @@
 # follow
 
+6.VERB 可以推断出；由此得出
+
+​	If it **follows** that **a particular thing is the case**, that thing is a **logical result** of **something else being true** or **being the case**.
+
+- Just because a bird does not breed one year, it **does not follow** that it will fail the next...
+
+  **不能**因为一只鸟某一年没有繁殖**就断定**它第二年也不会繁殖。
+
+- If the explanation is right, two things **follow**...
+
+  如果解释是正确的，可以**推断**出两件事。
+
 7.VERB (文章或讲演）接下来是，后面的是，下面是
 
 ​	If you refer to the words **that follow** or **followed**, you are referring to the words that **come next** or came next **in a piece of writing** or **speech**.
