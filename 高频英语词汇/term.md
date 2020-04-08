@@ -2,6 +2,8 @@
 
 ### 金山词霸网站上 柯林斯高阶英汉双解学习词典 中的词条
 
+### [数] （代数式等的）项
+
 ##### 1.PHRASE 在...方面；从...角度看；根据...来说
 
 ​	If you talk about something **in terms of** something or **in particular terms**, you are specifying **which aspect** of it you are discussing or **from what point of view** you are considering it.
