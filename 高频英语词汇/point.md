@@ -1,5 +1,17 @@
 ### point
 
+5.N-COUNT 细节；方面；特性
+
+​	A **point** is a **detail**, **aspect**, or **quality** of something or someone.
+
+- Many of the **points** in the report are correct...
+
+  报告中的很多**细节**是正确的。
+
+- The most interesting **point** about the village was its religion...
+
+  这个村庄最有意思的**地方**就是它的宗教。
+
 ##### 7. N-SING (某一）时刻，阶段
 
  	You use **point** to **refer to a particular time**, or **to a particular stage** in the **development** of something.
