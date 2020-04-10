@@ -31,3 +31,48 @@
 - No two chefs follow the same recipe.
 
   每个厨师都有不同的烹饪方式。
+
+20.PHRASE 如下；分别是
+
+​	You use as follows in writing or speech to introduce something such as a list, description, or explanation.
+
+- This can be done if you proceed **as follows**.
+
+  **按照如下**操作即可完成。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
