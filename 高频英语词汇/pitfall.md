@@ -8,4 +8,4 @@
 
   到国外工作存在许多陷阱。
 
-  
+2 :a hidden or not easily recognized danger or difficulty
