@@ -6,4 +6,6 @@
 
 - Mr Cross will assum the role of Chief Executive with a team of four directors...
 
-  
+4 :to take as granted or true:SUPPOSE
+
+​	// I **assume** he'll be there.
