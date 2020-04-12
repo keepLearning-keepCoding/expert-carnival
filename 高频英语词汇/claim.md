@@ -11,3 +11,9 @@
 - A man **claiming to be** a journalist threatened to reveal details about her private life...
 
   一个**自称**是记者的人威胁要公开有关她的私生活的细节。
+
+2.NOUN b:an assertion open to challenge
+
+​	// a claim of authenticity
+
+​	// advertiser's extravagant claims
