@@ -11,3 +11,9 @@
 - The clinic opened for business last October and **since then** has treated more than 200 people.
 
   该诊所去年10月开业，**从那以后**已经接诊200多人。
+
+<hr/>
+
+3 b (1): in that case
+
+​			// take it, then, if you want it so much
