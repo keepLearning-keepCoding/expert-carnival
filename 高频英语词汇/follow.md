@@ -1,5 +1,13 @@
 # follow
 
+6  a :to **come** or **take place** after in **time**, **sequence**, or **order**
+
+​	// A juggling act followed the singer.
+
+
+
+<hr/>
+
 6.VERB 可以推断出；由此得出
 
 ​	If it **follows** that **a particular thing is the case**, that thing is a **logical result** of **something else being true** or **being the case**.
