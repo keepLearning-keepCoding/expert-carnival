@@ -12,3 +12,12 @@
 
   尼基作为公共关系主管，**需要**花很多时间与别人打交道。
 
+2.VERB 牵涉；涉及
+
+​	If a situation or activity involves someone, they are taking part in it.
+
+
+
+<hr/>
+
+3  :to relate closely:  [CONNECT](https://www.merriam-webster.com/dictionary/connect)
