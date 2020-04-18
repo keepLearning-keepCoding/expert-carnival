@@ -1,5 +1,13 @@
 # here
 
+2.ADV 在此处（指所指向的地方）
+
+​	You use **here** when you are **pointing towards a place** that is **near** you, in order to **draw someone else's attention to it**.
+
+- ...if you will just **sign** here...
+
+  请在这里签字。
+
 4.ADV 在人世间
 
 ​	You use **here** to refer to **people in general** and **their life on Earth**.
