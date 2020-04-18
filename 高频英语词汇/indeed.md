@@ -1,5 +1,11 @@
 # indeed
 
+1.ADV 确实；的确
+
+​	You use **indeed** to **confirm** or **agree with** something that **has just been said**.
+
+
+
 2.ADV (表示语气的递进）实际上，其实，确切说来
 
 ​	You use indeed to **introduce** a **further comment** or **statement** which **strengthens the point** you have already made.
