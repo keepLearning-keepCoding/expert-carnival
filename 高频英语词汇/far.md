@@ -2,6 +2,12 @@
 
 ### THE EXTENT TO WHICH SOMETHING HAPPENS
 
+6.ADV-GRADED (用于谈及程度或范围）到...程度（或范围）
+
+​	You can use far to talk about the **extent** or **degree** to which something **happens** or **is true**.
+
+
+
 9.PHRASE If you tell or ask someone **what has happened so far**, you are telling or asking them what has happend **up until** the **present point** in a **situation** or **story**, and often implying that **something different might happen later**. 到目前为止
 
 - It's been quiet **so far**.
