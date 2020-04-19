@@ -4,6 +4,12 @@
 
 ### [数] （代数式等的）项
 
+in terms of
+
+:with respect or in relation to
+
+// thinks of everything in terms of money
+
 ##### 1.PHRASE 在...方面；从...角度看；根据...来说
 
 ​	If you talk about something **in terms of** something or **in particular terms**, you are specifying **which aspect** of it you are discussing or **from what point of view** you are considering it.
