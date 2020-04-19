@@ -5,3 +5,9 @@
 ##### 1.N-COUNT  执业医生
 
 ​		**Doctors** are sometimes referred to as **practitioners** or **medical practitioners**.
+
+<hr />
+
+1 :one who practices
+
+​	especially: one who **practices** a **profession**  从业者
