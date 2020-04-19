@@ -6,7 +6,7 @@
 
 SEVERE
 
-7 :reuiring great effort:[ARDUOUS](https://www.merriam-webster.com/dictionary/arduous)
+7 :requiring great effort:[ARDUOUS](https://www.merriam-webster.com/dictionary/arduous)
 
 ​	// a severe test
 
