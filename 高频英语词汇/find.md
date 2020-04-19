@@ -1,5 +1,17 @@
 # find
 
+2.VERB 找到；寻得；获得
+
+​	If you **find something** that you need or want, you **succeed in achieving** or **obtaining it**.
+
+- Many people here cannot **find** work...
+
+  这里很多人都找不到工作。
+
+- So far they have not **found** a way to fight the virus...
+
+  迄今为止，他们还没有**找到**一种对抗该病毒的方法。
+
 5.VERB (不知不觉中）发现（自己在做某事）
 
 ​	If you **find yourself doing something**, you are **doing** it **without deciding** or **intending** to do it.
