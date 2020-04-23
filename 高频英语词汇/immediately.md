@@ -7,3 +7,8 @@
 - The cause of the accident was not **immediately** apparent.
 
   事故的起因并非一目了然。
+
+3.ADV 直接地
+
+​	**Immediately** is used to indicate that **someone** or **something** is **closely and directly involved** in a situation.
+
