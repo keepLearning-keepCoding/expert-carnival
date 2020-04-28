@@ -13,3 +13,8 @@
 - Photographs taken at the same time on two **consecutive** sunny days can be quite different from one another.
 
   在**连续**两个艳阳天的同一时间拍摄的照片也可能大不相同。
+
+<hr/>
+
+:following one after the other in order: SUCCESSIVE
+
