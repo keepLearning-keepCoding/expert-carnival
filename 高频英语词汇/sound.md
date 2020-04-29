@@ -14,7 +14,11 @@
 
   一个年轻人鸣钟宣布周日的礼拜开始了。
 
-### B ADJECTIVE USES 形容词用法
+#### 9 V-LINK (用于谈论印象或观点）听起来，似乎
+
+​	When you are describing your **impression** or **opinion** of something you have **heard** about or **read** about, you can talk about **the way it sounds**.
+
+
 
 #### 2. ADJ-GRADED (建议、推理或证据）正确的；合理的；可靠的；明智的
 
